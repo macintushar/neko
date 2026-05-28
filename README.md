@@ -18,3 +18,6 @@ Future cool to have:
   - build a pipeline to have an llm describe images and videos (interval-based frame recognition) so that I can search for this similar to how i'd do for docs (this is gonna be fun to build)
 
 Neko is essentially a ground-up re-write of a part of curiositi where I want to actually focus and build stuff properly instead of having it turn into another playground for me to build the new cool thing that i find interesting directly into this. I want to be structured about how I build here.
+
+why neko is called neko?
+i was watching one piece and was at cat viper's introduction when i came up with this idea
