@@ -1,0 +1,14 @@
+{
+  "name": "neko",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "dev:server": "~/go/bin/air"
+  },
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5"
+  }
+}
