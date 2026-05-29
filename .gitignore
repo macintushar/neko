@@ -35,3 +35,9 @@ report.[0-9]_.[0-9]_.[0-9]_.[0-9]_.json
 
 tmp/
 *.db
+
+# UI Dist
+ui-dist/
+
+# Neko Binary
+neko*
